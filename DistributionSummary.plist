@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mentor</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>x86_64</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>40809CE04693B8F178027637657B3AF21A88332B</string>
+				<key>dateExpires</key>
+				<string>01/02/27</string>
+				<key>type</key>
+				<string>Cloud Managed Developer ID Application</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>com.apple.application-identifier</key>
+				<string>4WB5JBQVY8.br.org.eldorado.AcademySeniorLeaner</string>
+				<key>com.apple.developer.aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.br.org.eldorado.Academy</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4WB5JBQVY8</string>
+				<key>com.apple.security.app-sandbox</key>
+				<true/>
+				<key>com.apple.security.files.user-selected.read-only</key>
+				<true/>
+				<key>com.apple.security.network.client</key>
+				<true/>
+				<key>com.apple.security.network.server</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Mentor.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c59eec36-d6c4-487a-bc78-2ab881e9c079</string>
+				<key>dateExpires</key>
+				<string>18/08/41</string>
+				<key>name</key>
+				<string>Mac Team Direct Provisioning Profile: br.org.eldorado.AcademySeniorLeaner</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4WB5JBQVY8</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
